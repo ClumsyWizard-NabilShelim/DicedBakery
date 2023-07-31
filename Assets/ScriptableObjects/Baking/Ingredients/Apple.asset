@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32987c477524aa44d9d1f3e0bfad4aaf, type: 3}
+  m_Name: Apple
+  m_EditorClassIdentifier: 
+  <Portrait>k__BackingField: {fileID: 21300000, guid: 7400abd606e8444458fb248b0f415d9f, type: 3}
+  <Name>k__BackingField: Apple
+  <Description>k__BackingField: 'Crunchy and sweet fruite slices.
+
+
+    <b>Effect
+    range:</b> <%EffectArea%>'
+  <Cost>k__BackingField: 2
+  <Prefab>k__BackingField: {fileID: 6088775222643186623, guid: f9a3f7623f43ee84fb54504c3efe3ce9, type: 3}
+  <CardType>k__BackingField: 0
+  <Range>k__BackingField: 1
+  <RangeIncreaseLimit>k__BackingField: 4
+  <Points>k__BackingField: 3
+  <IngredientType>k__BackingField: 2
